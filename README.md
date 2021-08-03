@@ -2,9 +2,9 @@
 
 ## This program uses GET, POST, UPDATE, and DELETE html heads to display, add, modify, or delete data in the application.
 
-**Based on JavaScript, this program was used to exercise the ability to use Express.JS**
+**Based on JavaScript, this program was used to exercise the ability to set routes using Express.JS framework**
 
-**Front-end, test, and most part of back-end files were provided by CodeCademy**
+**Front-end, test, and most parts of back-end files were provided by CodeCademy**
 
 **The lines that were added by me are from 11 to 91 in the server.js file in the root of the project, and the file /server/checkMillionDollarIdea.js**
 
